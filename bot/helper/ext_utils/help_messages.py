@@ -331,11 +331,6 @@ help_string = [f'''⌬ <b><i>Basic Commands!</i></b>
 <b>Use yt-dlp commands for YouTube or any supported sites:</b>
 ┖ /{BotCommands.YtdlCommand[0]} or /{BotCommands.YtdlCommand[1]}: Mirror yt-dlp supported link.
 
-<b>Use Leech commands for upload to Telegram:</b>
-┠ /{BotCommands.LeechCommand[0]} or /{BotCommands.LeechCommand[1]}: Upload to Telegram.
-┠ /{BotCommands.QbLeechCommand[0]} or /{BotCommands.QbLeechCommand[1]}: Download using qBittorrent and upload to Telegram(For torrents only).
-┖ /{BotCommands.YtdlLeechCommand[0]} or /{BotCommands.YtdlLeechCommand[1]}: Download using Yt-Dlp(supported link) and upload to telegram.
-
 <b>G-Drive commands:</b>
 ┠ /{BotCommands.CloneCommand[0]}: Copy file/folder to Cloud Drive.
 ┠ /{BotCommands.CountCommand} [drive_url]: Count file/folder of Google Drive.
